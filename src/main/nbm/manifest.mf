@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: be/nbb/jtds/layer.xml
+OpenIDE-Module-Localizing-Bundle: be/nbb/jtds/Bundle.properties
+
