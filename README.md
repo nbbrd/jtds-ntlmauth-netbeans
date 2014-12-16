@@ -8,7 +8,7 @@ The [underlying driver](https://github.com/nbbrd/jtds-ntlmauth) uses the Windows
 
 This project uses [Maven](http://maven.apache.org/) as a project builder.
 
-To build this driver, you need to:
+To build this plugin, you need to:
 
 1. Build the [driver](https://github.com/nbbrd/jtds-ntlmauth) first
 2. Download the latest source code
